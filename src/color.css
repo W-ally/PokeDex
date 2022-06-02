@@ -1,0 +1,291 @@
+.bug{
+  background-image: linear-gradient(to bottom right, rgb(18, 193, 47), yellow);
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .water{
+    background-image: linear-gradient(to bottom right, rgb(16, 19, 188), rgb(0, 255, 255));
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .dragon{
+    background-image: linear-gradient(to bottom right, red, yellow);
+    border-radius: 20px;
+    
+   
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .grass{
+    background-image: linear-gradient(to bottom right, rgb(2, 53, 10), yellow);
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .fire{
+    background-image: linear-gradient(to bottom right, rgb(255, 218, 33), rgb(255, 0, 0));
+    border-radius: 20px;
+    
+   
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .normal{
+    background-image: linear-gradient(to bottom right, rgb(164, 167, 164)rgb(255, 255, 220)ow);
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .poison{
+    background-image: linear-gradient(to bottom right, rgb(193, 18, 18), rgb(230, 129, 255));
+    border-radius: 20px;
+    
+   
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .ice{
+    background-image: linear-gradient(to bottom right, rgb(188, 202, 194), rgb(21, 232, 251));
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .dark{
+    background-image: linear-gradient(to bottom right, rgb(16, 76, 111), rgb(24, 7, 75));
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .fairy{
+    background-image: linear-gradient(to bottom right, rgb(249, 187, 185)rgb(225, 86, 86)ow);
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .electric
+  {
+    background-image: linear-gradient(to bottom right, rgb(184, 181, 41), yellow);
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+    
+  }
+  .psychic{
+    background-image: linear-gradient(to bottom right, rgb(193, 193, 18), rgb(255, 255, 167));
+    border-radius: 20px;
+    
+   
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .fighting{
+    background-image: linear-gradient(to bottom right, rgb(182, 242, 129), rgb(76, 213, 188));
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .ground{
+    background-image: linear-gradient(to bottom right, rgb(193, 152, 18), rgb(255, 123, 0));
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .ghost{
+    background-image: linear-gradient(to bottom right, rgb(76, 4, 92), rgb(188, 52, 161));
+    border-radius: 20px;
+    
+   
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .steel{
+    background-image: linear-gradient(to bottom right, rgb(130, 130, 130), rgb(244, 244, 244));
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
+  .rock{
+    background-image: linear-gradient(to bottom right, rgb(165, 167, 165)rgb(59, 59, 59)ow);
+    border-radius: 20px;
+    
+    
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    height: 100%;
+    transition: .3s;
+    text-shadow: 0 0 1.4px black;
+
+    flex-direction: column;
+    margin: auto;
+  }
